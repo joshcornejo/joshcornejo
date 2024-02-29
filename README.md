@@ -8,20 +8,25 @@
 - **Languages:** C++, C#, Python, PLSQL, CYPHER 
 
 ## Enterprise Projects
-### Hospital information System
+### Hospital Information System
 -- Gupta 4GL, around 200K lines of code (3 years)
   
 ### end-to-end information system for university management 
--- course and accounting management (100K c++ lines of code, 300 DB tables). 
--- Original personnel size: 60
--- final: 2
--- crashes after 2 years: 0
--- web frontend was originally created in Java (30K lines) but downloads (this is the 90's) changed the architecture and had to be reprogrammed in ASP
+-- course and accounting management (100K C++ lines of code, 300 DB tables).
 
-### reverse engineer ATM code from signals
+-- Original personnel size: 60
+
+-- final: 2
+
+-- crashes after 2 years: 0
+
+-- web frontend was created in Java (30K lines) but downloads (this is the 90's) changed the architecture and had to be reprogrammed in ASP
+
+
+### Reverse engineer ATM code from signals
 -- 20K C++ lines
 
-### realtime middleware caching
+### real-time middleware caching
 -- created a DCOM wrapper around faulty INFORMIX drivers mapping multithreaded connections to asynchronous upstream
 -- 50K C++ lines of code
 
