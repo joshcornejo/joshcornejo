@@ -2,7 +2,7 @@
 <p align="center">Architect | UK</p> 
 
 ## About Me
-- I've been around computers forever. 
+- I've been around computers since the dawn of time. 
 
 ## Technical Skills
 - **Languages:** C++, C#, Python, PLSQL, CYPHER 
